@@ -352,3 +352,7 @@ section {
     transform: translateX(0);
 }
 
+.lookbook h2 {
+
+    cursor:pointer;
+}
